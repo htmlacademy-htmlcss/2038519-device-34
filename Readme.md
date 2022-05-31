@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Эля Бычкова](https://up.htmlacademy.ru/htmlcss/34/user/2038519).
-* Наставник: `Иван Бессалов https://htmlacademy.ru/profile/lvov`.
+* Наставник: `[Иван Бессалов](https://htmlacademy.ru/profile/lvov)`.
 
 ---
 
